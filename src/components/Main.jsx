@@ -130,7 +130,7 @@ export default function Main() {
   return (
     <main className="main-container">
       <div className="form">
-        <h1 className="title">🎨 Meme Generator</h1>
+        <h1 className="title">🎨 Generate Your Meme Here!</h1>
         <label>
           Top Text
           <input
